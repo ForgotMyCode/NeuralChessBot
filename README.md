@@ -2,8 +2,9 @@
 
 Current state: Proof of concept search, 
 relatively well trained neural network for evaluating positions, 
-needs refactoring/cleanup/polishing,
-needs search improvements.
+needs refactoring/cleanup/polishing.
+
+WIP search improvements (+ caching).
 
 
 
