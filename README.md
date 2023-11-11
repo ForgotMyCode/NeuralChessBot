@@ -1,4 +1,4 @@
-# NeuralChessBo
+# NeuralChessBot
 
 Current state: Proof of concept search, 
 relatively ok trained neural network for evaluating positions.
